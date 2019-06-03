@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "DirtyUnicorns/android_device_google_bonito",
+    "target_path": "device/google/bonito",
+    "branch": "p9x"
+  }
+]
